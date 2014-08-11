@@ -1,0 +1,3 @@
+function parsFeatures = defaultParametersFeatures
+
+parsFeatures = [];
